@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Mini_Project_Resister_App</string>
+
+    <!-- Band 1 and Band 2 options -->
+        <string-array name="band12_options">
+            <item>Black (0)</item>
+            <item>Brown (1)</item>
+            <item>Red (2)</item>
+            <item>Orange (3)</item>
+            <item>Yellow (4)</item>
+            <item>Green (5)</item>
+            <item>Blue (6)</item>
+            <item>Violet (7)</item>
+            <item>Gray (8)</item>
+            <item>White (9)</item>
+        </string-array>
+
+        <!-- Multiplier options -->
+        <string-array name="multiplier_options">
+            <item>Black (1 Ω)</item>
+            <item>Brown (10 Ω)</item>
+            <item>Red (100 Ω)</item>
+            <item>Orange (1 kΩ)</item>
+            <item>Yellow (10 kΩ)</item>
+            <item>Green (100 kΩ)</item>
+            <item>Blue (1 MΩ)</item>
+            <item>Gold (0.1 Ω)</item>
+            <item>Silver (0.01 Ω)</item>
+        </string-array>
+
+        <!-- Tolerance options -->
+        <string-array name="tolerance_options">
+            <item>Brown (±1%)</item>
+            <item>Red (±2%)</item>
+            <item>Green (±0.5%)</item>
+            <item>Blue (±0.25%)</item>
+            <item>Violet (±0.1%)</item>
+            <item>Gray (±0.05%)</item>
+            <item>Gold (±5%)</item>
+            <item>Silver (±10%)</item>
+        </string-array>
+</resources>
